@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cv-writer"
+version = "0.1.0"
+description = ""
+authors = ["Marius <mariuskrasuckas@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^2.6.1"
+dotenv = "^0.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
