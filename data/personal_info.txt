@@ -1,0 +1,67 @@
+Experience 1 — Personal Project
+Defense Hackathon by Lietuvos Šaulių Sąjunga
+Summary:
+Entered individually with the goal of joining a team, integrating quickly, and contributing through ML and AI work. The goal was to apply computer vision to help drones locate themselves on a map without GPS. Despite no prior experience in defense or hackathons, adapted rapidly to a new environment and worked effectively with new people. The project won the hackathon’s top prize.
+Key points:
+- Spent the development period experimenting with neural network approaches, testing results, discussing new directions, and iterating fast. 
+- The process was intense and hands-on, emphasizing experimentation and flow. Delivered a working (though not fully accurate) prototype by presentation day. 
+- Adaptability, initiative, rapid prototyping, teamwork under pressure, applied ML experimentation, cross-domain collaboration, and effective communication with new teams.
+Technologies: 
+Computer vision, neural networks.
+
+# Experience 2 - Personal Project
+Museum AI project
+Summary:
+Built a prototype conversational AI chatbot for museums where visitors can select exhibits and ask questions. Implemented flexible interaction methods (gallery selection, potential QR code triggers). Contacted ~20 Lithuanian museums to test interest and feasibility, receiving limited replies but valuable feedback (cost estimation, digitization constraints).
+Key points:
+- During testing, encountered a real-world incident of unexpected Google Cloud spending when a user left the app open for days. Detected it via alerts, verified it was not a bug, and resolved it by adjusting limits and monitoring.
+- Demonstrated initiative in outreach, ability to translate technical ideas into practical terms, and persistence in real-world testing.
+Technologies:
+Prompt engineering, RAG, and function calling; deployed on Google Cloud. Python, FastAPI, OpenAI API, LangChain, SQL, Git, Docker, Google Cloud. 
+
+# Experience 3 - Current Work
+Turing College - Learner Support Specialist (JTL) (07/2024–present)
+Summary: 
+Assisted learners in their studies.
+Key points:
+- Helped learners solve technical problems by answering questions, brainstorming solutions, and guiding next steps.
+- Reviewed 200+ projects and gave specific suggestions to improve future work and meet requirements.
+- Suggested changes to learning materials based on common mistakes and learner feedback.
+- Led stand-up meetings to address blockers and keep progress on track.
+- Informally helped new JTLs understand what to do in reviews and open sessions.
+- Refined explanations based on learner reactions during reviews and open sessions.
+Soft Skills: problem-solving; clear technical communication; adaptability; process improvement; coordination; ownership.
+
+# Experience 4 - Studies 
+Turing College — Data Science Program (11/2023–09/2025)
+Summary:
+Built ML projects in Python, creating APIs and using Git and SQL for data handling and version control. Completed neural network projects in computer vision and NLP for regression and classification, fine-tuning models and evaluating performance.
+Learning Included:
+Hands-on ML, neural networks (CV, NLP), model training and evaluation, APIs, SQL, Git, cloud deployment, LLM apps (prompt engineering, RAG, function calling).
+Languages & Core: 
+Python; NumPy; Pandas.
+ML/DL: 
+scikit-learn; PyTorch; CNNs; Transformers; regression; classification; clustering; model evaluation; hyperparameter tuning.
+LLM & AI engineering: 
+OpenAI API; LangChain; prompt engineering; RAG; function calling; APIs; FastAPI.
+Data & infra: 
+SQL/MySQL; Git; Docker; Google Cloud.
+Viz: Matplotlib; Seaborn; Looker.
+Various additional: SHAP; LIME; PCA; SVM; XGBoost; Bayesian concepts; A/B testing.
+
+## Projects During Studies:
+
+Interview preparation app
+Summary:
+Built an interview practice AI app. Combining technical implementation with domain understanding of “what a good answer is.” 
+Key points:
+- Learned both technical and domain sides quickly by asking targeted questions, validating conflicting input, and iterating.
+- Joined a hiring stand-up, asked targeted questions, synthesized a workable approach, gathered feedback in follow-ups, and used that to shape the app’s logic and prompts.
+
+Podcast Market Analysis (SQL + Dashboard)
+Summary:
+Analyzed ~100,000 podcasts and 2 million reviews from Apple Podcasts using SQL. Cleaned data, joined tables, and aggregated metrics to identify the most promising categories for new podcasts. Found “Kids & Family” and “True Crime” to be the strongest niches. 
+Key points:
+- Created a Looker dashboard summarizing key findings (category popularity, review trends, ratings). Focused on clarity and selectivity — a few visuals that conveyed the main story effectively. 
+- Received positive reviewer feedback for focus and clarity.
+- Learned how SQL and dashboards together can turn messy data into clear, decision-ready insights.
