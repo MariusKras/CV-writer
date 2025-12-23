@@ -1,5 +1,6 @@
 import openai
 import os
+import sys
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -23,12 +24,14 @@ if __name__ == "__main__":
     personal_info = load_text("data/personal_info.txt")
 
     messages = [
-        {"role": "systemddddddd", "content": system_prompt},
-        {"role": "user", "content": f"My info:\n{personal_info}"}
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": f"My personal information:\n{personal_info}"}
     ]
 
     while True:
-        user_input = input("\nUser message:\n").strip()
+        # user_input = input("\nUser message:\n").strip()
+        print("\nUser message:\n")
+        user_input = sys.stdin.read().strip()
 
         messages.append({"role": "user", "content": user_input})
 

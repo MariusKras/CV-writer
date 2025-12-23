@@ -15,7 +15,7 @@ Begin the bullet point with a strong action verb.
 </style>
 
 <constraints>
-The bullet point must describe a concrete task or achievement and include results. Incorporate keywords from the job description. Avoid generic or vague language.
+The bullet point must describe a concrete task or achievement and include results. Use keywords from the job description. Technologies, tools, and keywords must come only from the provided job description that overlap with Experience 1. If a term is not, mentioned in job description (e.g., "computer vision"), you must exclude it from your bullet point. Do not use technical subfields unless they appear verbatim in the job description. If a subfield appears in examples (e.g., "computer vision") but not in the job description, it must not be used. Avoid generic or vague language.
 </constraints>
 
 <quality_check>
@@ -23,7 +23,34 @@ Ensure the bullet includes an action, a result, and at least one relevant keywor
 </quality_check>
 
 <output>
-Write in the same style as the provided examples.
+Examples of bullet points for a particular job posting:
+- Co-developed a neural network model for a defense-themed hackathon where a
+drone uses a satellite map and its own camera feed to estimate its location on a
+known map without GPS. Tested multiple approaches and iterated quickly to
+identify a workable solution. The project won first place, earning the team the
+opportunity to negotiate potential investment.
+- Built a chatbot prototype for museums to help visitors explore exhibits through
+natural dialogue. Developed it with OpenAI API and LangChain, containerized it
+with Docker, and deployed it on Google Cloud, completing the full software
+development process. Reached out to multiple museums to explore collaboration
+and test the concept.
+- Held daily one-on-one consultations with learners on GitHub, Python, statistics,
+and machine learning topics. Helped them diagnose problems, plan next steps, and
+understand ideas so they could make steady progress. Guided debugging of Python
+code and data pipelines, aiming to explain technical concepts as clearly as possible.
+- Evaluated over 150 projects and provided detailed feedback to improve code
+quality, analytical approach, and readiness for more advanced tasks. Helped
+learners use Jupyter Notebooks, Pandas, and Matplotlib to work with structured
+data, including data cleaning and exploratory analysis.
+- Completed multiple machine learning projects, including developing a credit risk
+classification model for a Kaggle competition to predict whether a person would
+repay a loan. Validated and integrated multiple CSV tables, tested various
+algorithms in scikit-learn, applied extensive feature engineering and
+hyperparameter tuning, visualized feature importance, and deployed the model
+using FastAPI.
+- Developed several deep learning projects in NLP and computer vision for
+classification and regression tasks. In one example, fine-tuned a neural network to
+classify fake news using text data; applied data mining for data cleaning to detect
+anomalies, duplicates, and label leakage, and performed feature engineering to
+extract text-based predictors before fine-tuning a model with PyTorch.
 </output>
-
-
