@@ -1,7 +1,7 @@
 Experience 1 — Personal Project
 Defense Hackathon by Lietuvos Šaulių Sąjunga
 Summary:
-Entered individually with the goal of joining a team, integrating quickly, and contributing through ML and AI work. The goal was to apply computer vision to help drones locate themselves on a map without GPS. Despite no prior experience in defense or hackathons, adapted rapidly to a new environment and worked effectively with new people. The project won the hackathon’s top prize.
+Entered individually with the goal of joining a team, integrating quickly, and contributing through ML and AI work. The goal was to apply computer vision to help drones locate themselves on a map without GPS. Despite no prior experience in defense or hackathons, adapted rapidly to a new environment and worked effectively with new people. The project won the hackathon’s top prize. Worked as a contributing team member. I did not lead the project.
 Key points:
 - Spent the development period experimenting with neural network approaches, testing results, discussing new directions, and iterating fast. 
 - The process was intense and hands-on, emphasizing experimentation and flow. Delivered a working (though not fully accurate) prototype by presentation day. 
